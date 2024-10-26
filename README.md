@@ -1,16 +1,15 @@
-## Hi there 👋
+## Привет всем 👋
 
-<!--
-**Xunil1/Xunil1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я Python backend-разработчик с опытом разработки более 2-х лет. Моя основная специализация - это создание микросервисных приложений, скриптов автоматизации рабочих процессов и анализа данных.
 
-Here are some ideas to get you started:
+### Навыки:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Языки: Python, SQL.
+
+- Фреймворки: FastAPI, Flask, DRF.
+
+- Технологии: GitHub, Github Actions RestFull API, CI/CD.
+
+- Серверы: Windows Server, Linux.
+
+- Инструменты: Git, Docker, Docker Compose, RabbitMQ, Kafka, Redis.
