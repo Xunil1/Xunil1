@@ -8,7 +8,7 @@
 
 - Фреймворки: FastAPI, Flask, DRF.
 
-- Технологии: GitHub, Github Actions RestFull API, CI/CD.
+- Технологии: GitHub, Github Actions, RestFull API, CI/CD.
 
 - Серверы: Windows Server, Linux.
 
